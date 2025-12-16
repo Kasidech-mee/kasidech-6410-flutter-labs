@@ -1,6 +1,20 @@
 import 'package:flutter/material.dart';
 
-//didn't use any AI
+/*
+* A Simple student profile that display my name and students ID
+*
+* Doesn't use any AI
+*
+* Using name and id to contain strings to use in  Text
+* returning MaterialApp that using Scaffold that body being Center to make text on the middle of screen
+* next using Column to contain multiple Text child and help to make text container top to down
+* in Text using textSytle to mak make font size and font style
+*
+* @author Kasidech Meelarp
+* @Student ID 663040641-0
+* @Version 1.0.0
+* @date 10 Dec 2025
+* */
 
 void main() {
   runApp(StudentProfile());
