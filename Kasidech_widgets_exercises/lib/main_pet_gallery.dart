@@ -20,7 +20,7 @@ class MainPetGallery extends StatelessWidget {
           foregroundColor: Colors.white,
         ),
       ),
-      home: const PetsScreen(),
+      home: PetsScreen(),
     );
   }
 }
