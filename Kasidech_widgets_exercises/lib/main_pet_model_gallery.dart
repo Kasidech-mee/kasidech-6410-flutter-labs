@@ -4,7 +4,7 @@ import 'package:kasidech_widgets_exercises/screens/pets_gallery_screen.dart';
 /*
 * main function to run pet model gallery app
 * by display pet gallery screen in material app
-* 
+*           
 * @author Kasidech Meelarp
 * @Student ID 663040641-0
 * @Version 1.0.0

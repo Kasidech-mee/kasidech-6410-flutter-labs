@@ -1,5 +1,15 @@
 import 'package:flutter/material.dart';
 
+/*
+file where custom font Scaffold is implemented to show custom font in center of screen
+by adding custom font in pubspec.yaml and call to use in TextStyle fontFamily property
+
+@author Kasidech Meelarp
+@Student ID 663040641-0
+@Version 1.0.0
+@date 5 Jan 2026
+*/
+
 class CustomFont extends StatelessWidget {
   const CustomFont({super.key});
 

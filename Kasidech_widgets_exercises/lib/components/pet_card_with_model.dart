@@ -4,9 +4,9 @@ import 'package:kasidech_widgets_exercises/models/pet_model.dart';
 /*
 * A widget that displays a pet card
 * use in pet screen for make append multiple pet cards easily
-* by using pet model to mkae data format for pet card 
+* by using pet model to make data format for pet card 
 * and using supercard from petmodel to make it can check data format easily
-*
+*        
 * @author Kasidech Meelarp
 * @Student ID 663040641-0
 * @Version 1.0.0

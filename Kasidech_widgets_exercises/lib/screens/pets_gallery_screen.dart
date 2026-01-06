@@ -5,7 +5,7 @@ import 'package:kasidech_widgets_exercises/models/pet_model.dart';
 /*
 * A screen that display multiple pet card using petcard with model
 * by pressing different data in pet model make pet card can show different data
-* 
+*        
 * @author Kasidech Meelarp
 * @Student ID 663040641-0
 * @Version 1.0.0

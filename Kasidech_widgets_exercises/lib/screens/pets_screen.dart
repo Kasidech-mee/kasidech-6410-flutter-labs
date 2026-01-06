@@ -1,6 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:kasidech_widgets_exercises/components/pet_card.dart';
 
+/*
+A widget that displays the pets screen with multiple pet cards
+using petcard component create ealier to create multiple pet card without repeating code
+using Expanded to make pet cards take equal space in rows and columns
+
+@author Kasidech Meelarp
+@Student ID 663040641-0
+@Version 1.0.0
+@date 2 Jan 2026
+*/
+
 class PetsScreen extends StatelessWidget {
   const PetsScreen({super.key});
 
