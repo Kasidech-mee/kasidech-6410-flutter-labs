@@ -59,6 +59,7 @@ flutter:
 
   assets:
     - assets/images/quote.jpg
+    - assets/images/kku.jpg
   
   fonts:
     - family: Charm
