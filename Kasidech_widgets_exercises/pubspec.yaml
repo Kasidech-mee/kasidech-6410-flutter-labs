@@ -60,6 +60,7 @@ flutter:
   assets:
     - assets/images/quote.jpg
     - assets/images/kku.jpg
+    - assets/images/peXi.jpg
   
   fonts:
     - family: Charm
