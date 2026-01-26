@@ -58,9 +58,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/quote.jpg
-    - assets/images/kku.jpg
-    - assets/images/peXi.jpg
+    - assets/images/
   
   fonts:
     - family: Charm
