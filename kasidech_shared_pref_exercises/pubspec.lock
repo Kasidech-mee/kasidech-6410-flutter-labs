@@ -96,6 +96,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  kasidech_widgets_exercises:
+    dependency: "direct main"
+    description:
+      path: "../kasidech_widgets_exercises"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   leak_tracker:
     dependency: transitive
     description:
