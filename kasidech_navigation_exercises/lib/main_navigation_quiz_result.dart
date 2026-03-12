@@ -149,6 +149,13 @@ class _MainNavigationQuizResultState extends State<MainNavigationQuizResult> {
     return Scaffold(
       appBar: AppBar(
         title: const Center(child: Text("Quiz App by 663040641-0")),
+        // update for Lab 11
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.settings_outlined),
+            onPressed: () => Navigator.pushNamed(context, '/setting'),
+          ),
+        ],
       ),
       body: SafeArea(
         child: Column(

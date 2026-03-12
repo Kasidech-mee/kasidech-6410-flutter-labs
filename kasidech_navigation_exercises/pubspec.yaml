@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.2
   kasidech_interactivity_exercises:
     path: ../kasidech_interactivity_exercises
 
